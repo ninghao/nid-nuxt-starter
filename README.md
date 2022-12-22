@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# 宁皓独立开发者训练营：Nuxt 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+查看 [Nuxt 课程](https://ninghao.co) 。
 
 ## Setup
 
